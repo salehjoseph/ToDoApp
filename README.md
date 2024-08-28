@@ -1,4 +1,3 @@
-#### Working on it 🚀🙏
 # To Do App
 
 ## Description
